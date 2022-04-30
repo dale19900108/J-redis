@@ -1,2 +1,2 @@
 # J-redis
-try to study redis by write a new redis using java 
+try to study redis by writing a new redis using java 
